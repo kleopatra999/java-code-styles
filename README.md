@@ -1,7 +1,7 @@
 Java Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
+IntelliJ IDEA code style settings for Mapzen's Java and Android projects.
 
 
 Installation
@@ -11,3 +11,4 @@ Installation
  * Restart IntelliJ if it's running.
  * Open IntelliJ Project Settings -> Code Styles, change the code style for the
    project to the one you want.
+
